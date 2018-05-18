@@ -1,6 +1,6 @@
 # API_similarityScore
 
-Api that takes two strings and return the computed similarity score
+Api that takes two strings and returns the computed similarity score
 
 # Installation
 ```sh
